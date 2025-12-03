@@ -1,31 +1,31 @@
-# Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript
+# Ecommerce Website – README
 
-## About this course
-LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT. This is a free HTML CSS Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step. Will Create from responsive navbar using html CSS JavaScript to responsive footer in one video.
+## Overview
+This project is a responsive Ecommerce Website created using HTML, CSS, and JavaScript. It includes homepage sections, product listings, banners, and a newsletter signup form.
 
-## Why This Course?
-- Responsive Ecommerce Website Tutorial Using HTML CSS & JavaScript.
-- Completely For Beginners.
-- Multipage Ecommerce Website Project.
-- Best Beginner Friendly Free Course On YouTube.
-- Learn How to build amazing professional and responsive websites.
-- Learn the fundamentals of web design.
-- Modern CSS, including flexbox and CSS Grid for layout.
-- Modern CSS techniques to create stunning designs and effects.
-- How to use common components and layout patterns for professional website design and development.
-- Advanced responsive design using media queries.
-- And Many More.
+## Homepage Preview
+![Homepage Preview](img/demo/home.png)
 
-## Sections
-- Part1: Responsive Home Page Design.
-- Part2: Shop Page & Single Product Page.
-- Part3: Blog Page.
-- Part4: About Page.
-- Part5: Contact Us.
-- Part6: Ecommerce Shopping Cart.
+## Features
+- Hero promotional section
+- Featured products
+- New arrivals
+- Seasonal sale banners
+- Newsletter subscription
+- Fully responsive UI
+- Footer with contact details and links
 
-Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome Icons
+- Google Fonts
 
-Get the full source code from [here1](https://www.buymeacoffee.com/tech2etc/e/50932).
+## How to Run
+1. Download the project folder.
+2. Keep all files in the same structure.
+3. Open **index.html** in a browser.
 
-Get the full source code from [here2](https://ko-fi.com/s/06e4db9e09).
+## Author
+Developed by Pranav.
