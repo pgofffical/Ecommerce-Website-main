@@ -3,9 +3,6 @@
 ## Overview
 This project is a responsive Ecommerce Website created using HTML, CSS, and JavaScript. It includes homepage sections, product listings, banners, and a newsletter signup form.
 
-## Homepage Preview
-![Homepage Preview](img/demo/home.png)
-
 ## Features
 - Hero promotional section
 - Featured products
